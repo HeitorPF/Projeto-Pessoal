@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="btVoltar" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="btAlterar" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rtMarca" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cxMarca" min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rtModelo" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cxModelo" min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rtPreco" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cxPreco" min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rtEntrada" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cxEntrada" min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rtDpi" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cxDpi" min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rtPegada" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cxPegada" min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="rtQtdBotoes" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="cxQtdBotoes" min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="checkBluetooth" alignment="0" min="-2" pref="85" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="30" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rtMarca" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cxMarca" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rtModelo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cxModelo" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rtPreco" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cxPreco" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rtEntrada" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cxEntrada" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rtDpi" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cxDpi" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rtPegada" alignment="3" min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="cxPegada" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="rtQtdBotoes" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cxQtdBotoes" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="checkBluetooth" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="49" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btVoltar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btAlterar" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="rtMarca">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Marca:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rtModelo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Modelo:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rtPreco">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pre&#xe7;o:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rtEntrada">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Entrada:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rtDpi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dpi:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rtPegada">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Pegada:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rtQtdBotoes">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quantidade de bot&#xf5;es:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxMarca">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxModelo">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxPreco">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxEntrada">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxDpi">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxPegada">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxQtdBotoes">
+    </Component>
+    <Component class="javax.swing.JButton" name="btVoltar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btVoltarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btAlterar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Alterar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btAlterarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="checkBluetooth">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bluetooth"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
